@@ -1,5 +1,5 @@
 context:
-  version: "2.16.0"
+  version: "2.16.1"
 
 package:
   name: remix
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://registry.npmjs.org/create-remix/-/create-remix-${{ version }}.tgz
-  sha256: 31288f4857d439a621ece0a828c13b1df4ba880ec9d01fbd62eb17b4ec4bd453
+  sha256: 392d8b5951214f7e58d0b0bd3059ff4a66889508001ba5b3160fa96e36ab57b0
 
 build:
   number: 0
